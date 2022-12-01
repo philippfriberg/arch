@@ -1,4 +1,4 @@
-# Der pragmatische Software-Architekt
+# Softwarearchitektur pragmatisch
 
 Hier finden Sie die Listings und Modelle zum Buch "Softwarearchitektur pragmatisch".
 
